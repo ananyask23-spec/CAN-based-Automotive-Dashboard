@@ -3,3 +3,8 @@ A Controller Area Network (CAN bus) is a vehicle bus standard designed to allow 
 
 The goal of this project is to implement CAN protocol based data exchange between two PIC based boards, which are acting as “nodes”.
 In this implementation automotive use-case is assumed by exchanging data like engine temperature, speed etc that are displayed using LCD panels. 
+
+Technologies used
+ CAN protocol  
+ Command line based test protocol for node diagnostics  
+ Various peripherals usage (ex: LCD) 
